@@ -1,2 +1,3 @@
 # Git-learning
-learning about git
+learning about git<br>
+Author- Sakshi Singh
